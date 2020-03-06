@@ -1,0 +1,11 @@
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\bin\Debug\FlappyProject.exe.config
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\bin\Debug\FlappyProject.exe
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\bin\Debug\FlappyProject.pdb
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\bin\Debug\FlappyProject.xml
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.vbprojAssemblyReference.cache
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.Form1.resources
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.Resources.resources
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.vbproj.GenerateResource.cache
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.exe
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.xml
+C:\Users\gusta\source\repos\FlappyProject\FlappyProject\obj\Debug\FlappyProject.pdb
