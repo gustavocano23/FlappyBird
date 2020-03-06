@@ -33,11 +33,11 @@
                 cont = cont + 1
                 Label2.Text = cont
                 If cont Mod 5 = 0 Then
-                    Me.BackgroundImage = Image.FromFile("C:\Users\gusta\Desktop\Flappy_bird2\Flappy_bird2\sprites\background-night.png")
+                    Me.BackgroundImage = Image.FromFile(Application.StartupPath & "\sprites\background-night.png")
                     Me.BackgroundImageLayout = ImageLayout.Stretch
                 End If
                 If cont Mod 10 = 0 Then
-                    Me.BackgroundImage = Image.FromFile("C:\Users\gusta\Desktop\Flappy_bird2\Flappy_bird2\sprites\background-day.png")
+                    Me.BackgroundImage = Image.FromFile(Application.StartupPath & "\sprites\background-day.png")
                     Me.BackgroundImageLayout = ImageLayout.Stretch
                 End If
 
@@ -64,7 +64,7 @@
             Me.Controls.Add(temp)
             temp.Width = 50
             temp.Height = 350
-            temp.BackgroundImage = Image.FromFile("C:\Users\gusta\Desktop\Flappy_bird2\Flappy_bird2\sprites\pipe-green.png")
+            temp.BackgroundImage = Image.FromFile(Application.StartupPath & "\sprites\pipe-green.png")
             temp.BackgroundImageLayout = ImageLayout.Stretch
             temp.BackColor = Color.Transparent
             temp.Top = 70 + 290 * Rnd()
@@ -81,7 +81,7 @@
             Me.Controls.Add(temp)
             temp.Width = 50
             temp.Height = 350
-            temp.BackgroundImage = Image.FromFile("C:\Users\gusta\Desktop\Flappy_bird2\Flappy_bird2\sprites\pipe-green1.png")
+            temp.BackgroundImage = Image.FromFile(Application.StartupPath & "\sprites\pipe-green1.png")
             temp.BackgroundImageLayout = ImageLayout.Stretch
             temp.BackColor = Color.Transparent
             temp.Top = pipes(i).Top - 460
